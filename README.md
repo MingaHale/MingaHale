@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben [Melike Hale]!
+# 👋 Merhaba, ben Melike Hale!
 
 🚀 **Back-End Developer** | C • C# • .NET Core • SQL Server  
 💼 .NET tabanlı web ve API projeleri geliştiriyorum.
